@@ -1,0 +1,9 @@
+{
+  "wind": "Wind",
+  "humidity": "Humidity",
+  "temperature": "Temperature",
+  "feelsLike": "Feels Like",
+  "windSpeed": "Wind Speed",
+  "loadingCity": "Loading city...",
+  "weatherUpdated": "Weather updated"
+}

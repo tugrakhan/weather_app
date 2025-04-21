@@ -1,0 +1,9 @@
+{
+  "wind": "Rüzgar",
+  "humidity": "Nem",
+  "temperature": "Sıcaklık",
+  "feelsLike": "Hissedilen Sıcaklık",
+  "windSpeed": "Rüzgar Hızı",
+  "loadingCity": "Şehir yükleniyor...",
+  "weatherUpdated": "Hava durumu güncellendi"
+}
