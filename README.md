@@ -1,16 +1,34 @@
-# weather_app
+# 🌤️ Flutter Weather App | Hava Durumu Uygulaması
 
-A new Flutter project.
+Bu proje Flutter ile geliştirilmiş bir hava durumu uygulamasıdır.  
+This is a weather forecast app developed with Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Özellikler | Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 Şehir arama ve öneri sistemi (TypeAhead)  
+  🔍 City search with live suggestions (TypeAhead)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📍 Lokasyon bazlı anlık hava durumu  
+  📍 Location-based current weather
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📅 5 günlük hava tahmini (OpenWeatherMap API)  
+  📅 5-day weather forecast (OpenWeatherMap API)
+
+- 💾 SQLite ile offline destek  
+  💾 Offline storage using SQLite
+
+- 🎞️ Lottie animasyonları ile görsel hava durumu  
+  🎞️ Lottie animations for weather conditions
+
+- 🧭 Koordinat destekli şehir çözümleme  
+  🧭 Coordinate-based city geocoding
+
+- 🌍 Çoklu dil desteği (tr/en)  
+  🌍 Multi-language support (tr/en)
+
+- 💬 Temiz servis ve model mimarisi  
+  💬 Clean and modular service/model structure
+
+
